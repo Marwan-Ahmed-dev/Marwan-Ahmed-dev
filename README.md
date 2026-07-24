@@ -112,27 +112,6 @@ Flutter dev by trade, polyglot by habit. I build cross-platform mobile apps with
 
 ---
 
-## 📊 GitHub Vibes
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Marwan-Ahmed-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Marwan-Ahmed-dev&theme=radical&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marwan-Ahmed-dev&layout=donut&theme=radical&hide_border=true" alt="Top languages donut" />
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marwan-Ahmed-dev&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
-</div>
-
----
-
 ## 📫 Find Me
 
 <div align="center">
